@@ -1,0 +1,151 @@
+Return_ID,Order_ID,Return_Reason
+1,414,Damaged
+2,708,Late delivery
+3,551,Wrong item
+4,307,Not needed
+5,334,Wrong item
+6,602,Late delivery
+7,24,Late delivery
+8,582,Other
+9,33,Damaged
+10,143,Other
+11,158,Not needed
+12,339,Wrong item
+13,743,Not needed
+14,645,Late delivery
+15,618,Other
+16,623,Other
+17,588,Other
+18,401,Not needed
+19,391,Late delivery
+20,210,Wrong item
+21,733,Wrong item
+22,66,Not needed
+23,548,Other
+24,396,Damaged
+25,193,Not needed
+26,487,Not needed
+27,112,Late delivery
+28,337,Wrong item
+29,584,Not needed
+30,463,Not needed
+31,655,Other
+32,312,Other
+33,96,Damaged
+34,176,Late delivery
+35,107,Damaged
+36,692,Other
+37,567,Wrong item
+38,182,Other
+39,742,Late delivery
+40,706,Other
+41,736,Late delivery
+42,501,Late delivery
+43,28,Late delivery
+44,192,Late delivery
+45,204,Late delivery
+46,72,Wrong item
+47,727,Damaged
+48,291,Not needed
+49,211,Damaged
+50,239,Late delivery
+51,299,Wrong item
+52,676,Other
+53,537,Wrong item
+54,705,Late delivery
+55,466,Wrong item
+56,59,Wrong item
+57,378,Late delivery
+58,531,Wrong item
+59,12,Not needed
+60,717,Not needed
+61,335,Wrong item
+62,421,Other
+63,730,Late delivery
+64,161,Not needed
+65,114,Other
+66,133,Wrong item
+67,550,Other
+68,429,Damaged
+69,490,Not needed
+70,71,Wrong item
+71,399,Late delivery
+72,212,Wrong item
+73,134,Late delivery
+74,702,Wrong item
+75,318,Other
+76,443,Other
+77,725,Other
+78,163,Damaged
+79,619,Late delivery
+80,589,Other
+81,699,Damaged
+82,745,Late delivery
+83,208,Wrong item
+84,515,Damaged
+85,470,Not needed
+86,283,Damaged
+87,207,Damaged
+88,8,Late delivery
+89,147,Wrong item
+90,457,Not needed
+91,729,Other
+92,409,Other
+93,620,Damaged
+94,253,Late delivery
+95,539,Late delivery
+96,723,Other
+97,583,Not needed
+98,503,Wrong item
+99,472,Not needed
+100,474,Wrong item
+101,590,Other
+102,41,Wrong item
+103,94,Late delivery
+104,295,Damaged
+105,468,Damaged
+106,356,Other
+107,305,Late delivery
+108,688,Not needed
+109,628,Late delivery
+110,180,Damaged
+111,426,Damaged
+112,256,Late delivery
+113,184,Late delivery
+114,633,Damaged
+115,675,Not needed
+116,469,Other
+117,394,Other
+118,188,Late delivery
+119,654,Other
+120,98,Damaged
+121,403,Damaged
+122,45,Late delivery
+123,246,Late delivery
+124,162,Late delivery
+125,281,Not needed
+126,748,Other
+127,700,Late delivery
+128,69,Wrong item
+129,223,Wrong item
+130,506,Damaged
+131,422,Other
+132,714,Late delivery
+133,125,Wrong item
+134,694,Other
+135,79,Damaged
+136,108,Not needed
+137,517,Other
+138,746,Other
+139,420,Not needed
+140,462,Other
+141,169,Damaged
+142,259,Damaged
+143,213,Not needed
+144,519,Late delivery
+145,46,Wrong item
+146,651,Late delivery
+147,749,Other
+148,75,Wrong item
+149,473,Not needed
+150,732,Not needed
