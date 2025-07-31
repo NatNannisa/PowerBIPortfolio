@@ -1,0 +1,1001 @@
+SupplierID,SupplierName,SLA_Days
+1,Larson Inc,8
+2,Miller Ltd,5
+3,Taylor-Caldwell,6
+4,Martinez Group,8
+5,"Lee, Perry and Grimes",4
+6,Smith-Long,9
+7,"Hernandez, Sanchez and Barker",6
+8,"Lee, Greene and Hunter",6
+9,Peck and Sons,8
+10,Dyer LLC,3
+11,Gomez Inc,4
+12,"Gates, Bennett and Nelson",8
+13,Anderson Inc,4
+14,Rios Inc,4
+15,Parker and Sons,9
+16,"Fox, Foster and Graves",6
+17,"Foster, Wood and Kelley",5
+18,"Camacho, Bennett and Travis",9
+19,"Thomas, Ware and Moore",9
+20,Stewart-Obrien,4
+7,"Hernandez, Sanchez and Barker",6
+20,Stewart-Obrien,4
+15,Parker and Sons,9
+11,Gomez Inc,4
+8,"Lee, Greene and Hunter",6
+7,"Hernandez, Sanchez and Barker",6
+19,"Thomas, Ware and Moore",9
+11,Gomez Inc,4
+11,Gomez Inc,4
+4,Martinez Group,8
+8,"Lee, Greene and Hunter",6
+3,Taylor-Caldwell,6
+2,Miller Ltd,5
+12,"Gates, Bennett and Nelson",8
+6,Smith-Long,9
+2,Miller Ltd,5
+1,Larson Inc,8
+12,"Gates, Bennett and Nelson",8
+12,"Gates, Bennett and Nelson",8
+17,"Foster, Wood and Kelley",5
+10,Dyer LLC,3
+16,"Fox, Foster and Graves",6
+15,Parker and Sons,9
+15,Parker and Sons,9
+19,"Thomas, Ware and Moore",9
+12,"Gates, Bennett and Nelson",8
+20,Stewart-Obrien,4
+3,Taylor-Caldwell,6
+5,"Lee, Perry and Grimes",4
+19,"Thomas, Ware and Moore",9
+7,"Hernandez, Sanchez and Barker",6
+9,Peck and Sons,8
+7,"Hernandez, Sanchez and Barker",6
+18,"Camacho, Bennett and Travis",9
+4,Martinez Group,8
+14,Rios Inc,4
+18,"Camacho, Bennett and Travis",9
+9,Peck and Sons,8
+2,Miller Ltd,5
+20,Stewart-Obrien,4
+15,Parker and Sons,9
+7,"Hernandez, Sanchez and Barker",6
+12,"Gates, Bennett and Nelson",8
+8,"Lee, Greene and Hunter",6
+15,Parker and Sons,9
+3,Taylor-Caldwell,6
+14,Rios Inc,4
+17,"Foster, Wood and Kelley",5
+4,Martinez Group,8
+18,"Camacho, Bennett and Travis",9
+8,"Lee, Greene and Hunter",6
+4,Martinez Group,8
+2,Miller Ltd,5
+6,Smith-Long,9
+10,Dyer LLC,3
+4,Martinez Group,8
+18,"Camacho, Bennett and Travis",9
+12,"Gates, Bennett and Nelson",8
+2,Miller Ltd,5
+10,Dyer LLC,3
+4,Martinez Group,8
+14,Rios Inc,4
+16,"Fox, Foster and Graves",6
+15,Parker and Sons,9
+8,"Lee, Greene and Hunter",6
+14,Rios Inc,4
+8,"Lee, Greene and Hunter",6
+16,"Fox, Foster and Graves",6
+13,Anderson Inc,4
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+13,Anderson Inc,4
+9,Peck and Sons,8
+15,Parker and Sons,9
+13,Anderson Inc,4
+1,Larson Inc,8
+7,"Hernandez, Sanchez and Barker",6
+9,Peck and Sons,8
+1,Larson Inc,8
+12,"Gates, Bennett and Nelson",8
+8,"Lee, Greene and Hunter",6
+11,Gomez Inc,4
+19,"Thomas, Ware and Moore",9
+17,"Foster, Wood and Kelley",5
+8,"Lee, Greene and Hunter",6
+3,Taylor-Caldwell,6
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+10,Dyer LLC,3
+7,"Hernandez, Sanchez and Barker",6
+9,Peck and Sons,8
+7,"Hernandez, Sanchez and Barker",6
+9,Peck and Sons,8
+8,"Lee, Greene and Hunter",6
+12,"Gates, Bennett and Nelson",8
+2,Miller Ltd,5
+1,Larson Inc,8
+16,"Fox, Foster and Graves",6
+5,"Lee, Perry and Grimes",4
+3,Taylor-Caldwell,6
+12,"Gates, Bennett and Nelson",8
+8,"Lee, Greene and Hunter",6
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+3,Taylor-Caldwell,6
+5,"Lee, Perry and Grimes",4
+15,Parker and Sons,9
+14,Rios Inc,4
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+14,Rios Inc,4
+7,"Hernandez, Sanchez and Barker",6
+9,Peck and Sons,8
+15,Parker and Sons,9
+15,Parker and Sons,9
+10,Dyer LLC,3
+13,Anderson Inc,4
+19,"Thomas, Ware and Moore",9
+7,"Hernandez, Sanchez and Barker",6
+17,"Foster, Wood and Kelley",5
+20,Stewart-Obrien,4
+4,Martinez Group,8
+5,"Lee, Perry and Grimes",4
+7,"Hernandez, Sanchez and Barker",6
+13,Anderson Inc,4
+15,Parker and Sons,9
+11,Gomez Inc,4
+4,Martinez Group,8
+13,Anderson Inc,4
+7,"Hernandez, Sanchez and Barker",6
+19,"Thomas, Ware and Moore",9
+2,Miller Ltd,5
+10,Dyer LLC,3
+13,Anderson Inc,4
+6,Smith-Long,9
+12,"Gates, Bennett and Nelson",8
+12,"Gates, Bennett and Nelson",8
+20,Stewart-Obrien,4
+11,Gomez Inc,4
+7,"Hernandez, Sanchez and Barker",6
+1,Larson Inc,8
+1,Larson Inc,8
+20,Stewart-Obrien,4
+13,Anderson Inc,4
+9,Peck and Sons,8
+3,Taylor-Caldwell,6
+7,"Hernandez, Sanchez and Barker",6
+6,Smith-Long,9
+8,"Lee, Greene and Hunter",6
+9,Peck and Sons,8
+5,"Lee, Perry and Grimes",4
+1,Larson Inc,8
+19,"Thomas, Ware and Moore",9
+10,Dyer LLC,3
+12,"Gates, Bennett and Nelson",8
+15,Parker and Sons,9
+9,Peck and Sons,8
+20,Stewart-Obrien,4
+17,"Foster, Wood and Kelley",5
+17,"Foster, Wood and Kelley",5
+20,Stewart-Obrien,4
+12,"Gates, Bennett and Nelson",8
+7,"Hernandez, Sanchez and Barker",6
+2,Miller Ltd,5
+3,Taylor-Caldwell,6
+17,"Foster, Wood and Kelley",5
+5,"Lee, Perry and Grimes",4
+17,"Foster, Wood and Kelley",5
+17,"Foster, Wood and Kelley",5
+17,"Foster, Wood and Kelley",5
+2,Miller Ltd,5
+2,Miller Ltd,5
+5,"Lee, Perry and Grimes",4
+1,Larson Inc,8
+1,Larson Inc,8
+19,"Thomas, Ware and Moore",9
+2,Miller Ltd,5
+12,"Gates, Bennett and Nelson",8
+6,Smith-Long,9
+4,Martinez Group,8
+11,Gomez Inc,4
+17,"Foster, Wood and Kelley",5
+6,Smith-Long,9
+5,"Lee, Perry and Grimes",4
+20,Stewart-Obrien,4
+2,Miller Ltd,5
+6,Smith-Long,9
+11,Gomez Inc,4
+16,"Fox, Foster and Graves",6
+16,"Fox, Foster and Graves",6
+1,Larson Inc,8
+9,Peck and Sons,8
+6,Smith-Long,9
+16,"Fox, Foster and Graves",6
+3,Taylor-Caldwell,6
+20,Stewart-Obrien,4
+4,Martinez Group,8
+19,"Thomas, Ware and Moore",9
+3,Taylor-Caldwell,6
+19,"Thomas, Ware and Moore",9
+20,Stewart-Obrien,4
+7,"Hernandez, Sanchez and Barker",6
+20,Stewart-Obrien,4
+9,Peck and Sons,8
+1,Larson Inc,8
+8,"Lee, Greene and Hunter",6
+7,"Hernandez, Sanchez and Barker",6
+18,"Camacho, Bennett and Travis",9
+8,"Lee, Greene and Hunter",6
+1,Larson Inc,8
+11,Gomez Inc,4
+18,"Camacho, Bennett and Travis",9
+10,Dyer LLC,3
+3,Taylor-Caldwell,6
+7,"Hernandez, Sanchez and Barker",6
+16,"Fox, Foster and Graves",6
+16,"Fox, Foster and Graves",6
+20,Stewart-Obrien,4
+17,"Foster, Wood and Kelley",5
+2,Miller Ltd,5
+1,Larson Inc,8
+16,"Fox, Foster and Graves",6
+12,"Gates, Bennett and Nelson",8
+5,"Lee, Perry and Grimes",4
+5,"Lee, Perry and Grimes",4
+9,Peck and Sons,8
+9,Peck and Sons,8
+3,Taylor-Caldwell,6
+19,"Thomas, Ware and Moore",9
+16,"Fox, Foster and Graves",6
+16,"Fox, Foster and Graves",6
+3,Taylor-Caldwell,6
+20,Stewart-Obrien,4
+1,Larson Inc,8
+20,Stewart-Obrien,4
+11,Gomez Inc,4
+17,"Foster, Wood and Kelley",5
+8,"Lee, Greene and Hunter",6
+4,Martinez Group,8
+6,Smith-Long,9
+8,"Lee, Greene and Hunter",6
+20,Stewart-Obrien,4
+3,Taylor-Caldwell,6
+16,"Fox, Foster and Graves",6
+3,Taylor-Caldwell,6
+18,"Camacho, Bennett and Travis",9
+14,Rios Inc,4
+18,"Camacho, Bennett and Travis",9
+2,Miller Ltd,5
+3,Taylor-Caldwell,6
+16,"Fox, Foster and Graves",6
+9,Peck and Sons,8
+4,Martinez Group,8
+1,Larson Inc,8
+4,Martinez Group,8
+1,Larson Inc,8
+14,Rios Inc,4
+16,"Fox, Foster and Graves",6
+20,Stewart-Obrien,4
+8,"Lee, Greene and Hunter",6
+7,"Hernandez, Sanchez and Barker",6
+3,Taylor-Caldwell,6
+17,"Foster, Wood and Kelley",5
+1,Larson Inc,8
+16,"Fox, Foster and Graves",6
+12,"Gates, Bennett and Nelson",8
+19,"Thomas, Ware and Moore",9
+14,Rios Inc,4
+6,Smith-Long,9
+6,Smith-Long,9
+13,Anderson Inc,4
+19,"Thomas, Ware and Moore",9
+8,"Lee, Greene and Hunter",6
+2,Miller Ltd,5
+1,Larson Inc,8
+15,Parker and Sons,9
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+16,"Fox, Foster and Graves",6
+19,"Thomas, Ware and Moore",9
+4,Martinez Group,8
+3,Taylor-Caldwell,6
+17,"Foster, Wood and Kelley",5
+17,"Foster, Wood and Kelley",5
+12,"Gates, Bennett and Nelson",8
+14,Rios Inc,4
+6,Smith-Long,9
+3,Taylor-Caldwell,6
+9,Peck and Sons,8
+5,"Lee, Perry and Grimes",4
+17,"Foster, Wood and Kelley",5
+14,Rios Inc,4
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+20,Stewart-Obrien,4
+1,Larson Inc,8
+3,Taylor-Caldwell,6
+18,"Camacho, Bennett and Travis",9
+10,Dyer LLC,3
+3,Taylor-Caldwell,6
+8,"Lee, Greene and Hunter",6
+14,Rios Inc,4
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+2,Miller Ltd,5
+10,Dyer LLC,3
+2,Miller Ltd,5
+17,"Foster, Wood and Kelley",5
+8,"Lee, Greene and Hunter",6
+1,Larson Inc,8
+9,Peck and Sons,8
+11,Gomez Inc,4
+16,"Fox, Foster and Graves",6
+7,"Hernandez, Sanchez and Barker",6
+10,Dyer LLC,3
+3,Taylor-Caldwell,6
+18,"Camacho, Bennett and Travis",9
+13,Anderson Inc,4
+7,"Hernandez, Sanchez and Barker",6
+4,Martinez Group,8
+13,Anderson Inc,4
+20,Stewart-Obrien,4
+1,Larson Inc,8
+8,"Lee, Greene and Hunter",6
+14,Rios Inc,4
+16,"Fox, Foster and Graves",6
+14,Rios Inc,4
+12,"Gates, Bennett and Nelson",8
+19,"Thomas, Ware and Moore",9
+15,Parker and Sons,9
+2,Miller Ltd,5
+2,Miller Ltd,5
+19,"Thomas, Ware and Moore",9
+17,"Foster, Wood and Kelley",5
+20,Stewart-Obrien,4
+10,Dyer LLC,3
+6,Smith-Long,9
+15,Parker and Sons,9
+11,Gomez Inc,4
+5,"Lee, Perry and Grimes",4
+1,Larson Inc,8
+8,"Lee, Greene and Hunter",6
+12,"Gates, Bennett and Nelson",8
+12,"Gates, Bennett and Nelson",8
+5,"Lee, Perry and Grimes",4
+7,"Hernandez, Sanchez and Barker",6
+4,Martinez Group,8
+6,Smith-Long,9
+13,Anderson Inc,4
+20,Stewart-Obrien,4
+15,Parker and Sons,9
+3,Taylor-Caldwell,6
+8,"Lee, Greene and Hunter",6
+20,Stewart-Obrien,4
+16,"Fox, Foster and Graves",6
+13,Anderson Inc,4
+18,"Camacho, Bennett and Travis",9
+10,Dyer LLC,3
+19,"Thomas, Ware and Moore",9
+17,"Foster, Wood and Kelley",5
+19,"Thomas, Ware and Moore",9
+5,"Lee, Perry and Grimes",4
+9,Peck and Sons,8
+12,"Gates, Bennett and Nelson",8
+1,Larson Inc,8
+1,Larson Inc,8
+15,Parker and Sons,9
+2,Miller Ltd,5
+16,"Fox, Foster and Graves",6
+8,"Lee, Greene and Hunter",6
+13,Anderson Inc,4
+1,Larson Inc,8
+16,"Fox, Foster and Graves",6
+7,"Hernandez, Sanchez and Barker",6
+5,"Lee, Perry and Grimes",4
+3,Taylor-Caldwell,6
+12,"Gates, Bennett and Nelson",8
+16,"Fox, Foster and Graves",6
+19,"Thomas, Ware and Moore",9
+5,"Lee, Perry and Grimes",4
+14,Rios Inc,4
+5,"Lee, Perry and Grimes",4
+15,Parker and Sons,9
+17,"Foster, Wood and Kelley",5
+14,Rios Inc,4
+20,Stewart-Obrien,4
+5,"Lee, Perry and Grimes",4
+12,"Gates, Bennett and Nelson",8
+16,"Fox, Foster and Graves",6
+16,"Fox, Foster and Graves",6
+7,"Hernandez, Sanchez and Barker",6
+4,Martinez Group,8
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+10,Dyer LLC,3
+5,"Lee, Perry and Grimes",4
+4,Martinez Group,8
+2,Miller Ltd,5
+20,Stewart-Obrien,4
+10,Dyer LLC,3
+19,"Thomas, Ware and Moore",9
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+13,Anderson Inc,4
+4,Martinez Group,8
+16,"Fox, Foster and Graves",6
+16,"Fox, Foster and Graves",6
+2,Miller Ltd,5
+17,"Foster, Wood and Kelley",5
+20,Stewart-Obrien,4
+12,"Gates, Bennett and Nelson",8
+18,"Camacho, Bennett and Travis",9
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+1,Larson Inc,8
+19,"Thomas, Ware and Moore",9
+11,Gomez Inc,4
+5,"Lee, Perry and Grimes",4
+12,"Gates, Bennett and Nelson",8
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+1,Larson Inc,8
+8,"Lee, Greene and Hunter",6
+10,Dyer LLC,3
+11,Gomez Inc,4
+12,"Gates, Bennett and Nelson",8
+13,Anderson Inc,4
+12,"Gates, Bennett and Nelson",8
+14,Rios Inc,4
+2,Miller Ltd,5
+19,"Thomas, Ware and Moore",9
+18,"Camacho, Bennett and Travis",9
+3,Taylor-Caldwell,6
+17,"Foster, Wood and Kelley",5
+8,"Lee, Greene and Hunter",6
+10,Dyer LLC,3
+2,Miller Ltd,5
+19,"Thomas, Ware and Moore",9
+9,Peck and Sons,8
+7,"Hernandez, Sanchez and Barker",6
+4,Martinez Group,8
+18,"Camacho, Bennett and Travis",9
+13,Anderson Inc,4
+11,Gomez Inc,4
+4,Martinez Group,8
+4,Martinez Group,8
+10,Dyer LLC,3
+5,"Lee, Perry and Grimes",4
+9,Peck and Sons,8
+3,Taylor-Caldwell,6
+17,"Foster, Wood and Kelley",5
+3,Taylor-Caldwell,6
+16,"Fox, Foster and Graves",6
+4,Martinez Group,8
+18,"Camacho, Bennett and Travis",9
+17,"Foster, Wood and Kelley",5
+7,"Hernandez, Sanchez and Barker",6
+5,"Lee, Perry and Grimes",4
+12,"Gates, Bennett and Nelson",8
+17,"Foster, Wood and Kelley",5
+13,Anderson Inc,4
+3,Taylor-Caldwell,6
+9,Peck and Sons,8
+17,"Foster, Wood and Kelley",5
+17,"Foster, Wood and Kelley",5
+20,Stewart-Obrien,4
+16,"Fox, Foster and Graves",6
+13,Anderson Inc,4
+19,"Thomas, Ware and Moore",9
+17,"Foster, Wood and Kelley",5
+4,Martinez Group,8
+12,"Gates, Bennett and Nelson",8
+9,Peck and Sons,8
+19,"Thomas, Ware and Moore",9
+12,"Gates, Bennett and Nelson",8
+9,Peck and Sons,8
+7,"Hernandez, Sanchez and Barker",6
+14,Rios Inc,4
+20,Stewart-Obrien,4
+19,"Thomas, Ware and Moore",9
+15,Parker and Sons,9
+16,"Fox, Foster and Graves",6
+5,"Lee, Perry and Grimes",4
+3,Taylor-Caldwell,6
+12,"Gates, Bennett and Nelson",8
+20,Stewart-Obrien,4
+4,Martinez Group,8
+16,"Fox, Foster and Graves",6
+7,"Hernandez, Sanchez and Barker",6
+13,Anderson Inc,4
+10,Dyer LLC,3
+7,"Hernandez, Sanchez and Barker",6
+14,Rios Inc,4
+5,"Lee, Perry and Grimes",4
+3,Taylor-Caldwell,6
+11,Gomez Inc,4
+11,Gomez Inc,4
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+12,"Gates, Bennett and Nelson",8
+9,Peck and Sons,8
+10,Dyer LLC,3
+12,"Gates, Bennett and Nelson",8
+17,"Foster, Wood and Kelley",5
+6,Smith-Long,9
+7,"Hernandez, Sanchez and Barker",6
+14,Rios Inc,4
+13,Anderson Inc,4
+8,"Lee, Greene and Hunter",6
+10,Dyer LLC,3
+9,Peck and Sons,8
+18,"Camacho, Bennett and Travis",9
+2,Miller Ltd,5
+5,"Lee, Perry and Grimes",4
+5,"Lee, Perry and Grimes",4
+6,Smith-Long,9
+19,"Thomas, Ware and Moore",9
+8,"Lee, Greene and Hunter",6
+16,"Fox, Foster and Graves",6
+13,Anderson Inc,4
+1,Larson Inc,8
+20,Stewart-Obrien,4
+17,"Foster, Wood and Kelley",5
+7,"Hernandez, Sanchez and Barker",6
+13,Anderson Inc,4
+4,Martinez Group,8
+4,Martinez Group,8
+6,Smith-Long,9
+19,"Thomas, Ware and Moore",9
+12,"Gates, Bennett and Nelson",8
+7,"Hernandez, Sanchez and Barker",6
+10,Dyer LLC,3
+19,"Thomas, Ware and Moore",9
+7,"Hernandez, Sanchez and Barker",6
+3,Taylor-Caldwell,6
+13,Anderson Inc,4
+13,Anderson Inc,4
+18,"Camacho, Bennett and Travis",9
+20,Stewart-Obrien,4
+8,"Lee, Greene and Hunter",6
+9,Peck and Sons,8
+7,"Hernandez, Sanchez and Barker",6
+1,Larson Inc,8
+3,Taylor-Caldwell,6
+13,Anderson Inc,4
+17,"Foster, Wood and Kelley",5
+1,Larson Inc,8
+6,Smith-Long,9
+6,Smith-Long,9
+12,"Gates, Bennett and Nelson",8
+13,Anderson Inc,4
+13,Anderson Inc,4
+15,Parker and Sons,9
+16,"Fox, Foster and Graves",6
+11,Gomez Inc,4
+5,"Lee, Perry and Grimes",4
+4,Martinez Group,8
+3,Taylor-Caldwell,6
+19,"Thomas, Ware and Moore",9
+20,Stewart-Obrien,4
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+9,Peck and Sons,8
+17,"Foster, Wood and Kelley",5
+14,Rios Inc,4
+15,Parker and Sons,9
+1,Larson Inc,8
+3,Taylor-Caldwell,6
+16,"Fox, Foster and Graves",6
+11,Gomez Inc,4
+12,"Gates, Bennett and Nelson",8
+10,Dyer LLC,3
+16,"Fox, Foster and Graves",6
+8,"Lee, Greene and Hunter",6
+6,Smith-Long,9
+12,"Gates, Bennett and Nelson",8
+8,"Lee, Greene and Hunter",6
+4,Martinez Group,8
+8,"Lee, Greene and Hunter",6
+18,"Camacho, Bennett and Travis",9
+5,"Lee, Perry and Grimes",4
+9,Peck and Sons,8
+4,Martinez Group,8
+17,"Foster, Wood and Kelley",5
+9,Peck and Sons,8
+1,Larson Inc,8
+20,Stewart-Obrien,4
+13,Anderson Inc,4
+16,"Fox, Foster and Graves",6
+13,Anderson Inc,4
+14,Rios Inc,4
+3,Taylor-Caldwell,6
+6,Smith-Long,9
+18,"Camacho, Bennett and Travis",9
+19,"Thomas, Ware and Moore",9
+5,"Lee, Perry and Grimes",4
+15,Parker and Sons,9
+2,Miller Ltd,5
+10,Dyer LLC,3
+18,"Camacho, Bennett and Travis",9
+13,Anderson Inc,4
+5,"Lee, Perry and Grimes",4
+1,Larson Inc,8
+1,Larson Inc,8
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+17,"Foster, Wood and Kelley",5
+11,Gomez Inc,4
+17,"Foster, Wood and Kelley",5
+13,Anderson Inc,4
+1,Larson Inc,8
+2,Miller Ltd,5
+9,Peck and Sons,8
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+16,"Fox, Foster and Graves",6
+6,Smith-Long,9
+17,"Foster, Wood and Kelley",5
+5,"Lee, Perry and Grimes",4
+5,"Lee, Perry and Grimes",4
+6,Smith-Long,9
+3,Taylor-Caldwell,6
+5,"Lee, Perry and Grimes",4
+5,"Lee, Perry and Grimes",4
+10,Dyer LLC,3
+10,Dyer LLC,3
+19,"Thomas, Ware and Moore",9
+17,"Foster, Wood and Kelley",5
+14,Rios Inc,4
+9,Peck and Sons,8
+14,Rios Inc,4
+1,Larson Inc,8
+19,"Thomas, Ware and Moore",9
+13,Anderson Inc,4
+13,Anderson Inc,4
+4,Martinez Group,8
+1,Larson Inc,8
+17,"Foster, Wood and Kelley",5
+8,"Lee, Greene and Hunter",6
+2,Miller Ltd,5
+8,"Lee, Greene and Hunter",6
+7,"Hernandez, Sanchez and Barker",6
+2,Miller Ltd,5
+3,Taylor-Caldwell,6
+18,"Camacho, Bennett and Travis",9
+12,"Gates, Bennett and Nelson",8
+1,Larson Inc,8
+12,"Gates, Bennett and Nelson",8
+5,"Lee, Perry and Grimes",4
+17,"Foster, Wood and Kelley",5
+16,"Fox, Foster and Graves",6
+15,Parker and Sons,9
+15,Parker and Sons,9
+5,"Lee, Perry and Grimes",4
+14,Rios Inc,4
+2,Miller Ltd,5
+11,Gomez Inc,4
+19,"Thomas, Ware and Moore",9
+7,"Hernandez, Sanchez and Barker",6
+6,Smith-Long,9
+2,Miller Ltd,5
+6,Smith-Long,9
+18,"Camacho, Bennett and Travis",9
+2,Miller Ltd,5
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+19,"Thomas, Ware and Moore",9
+2,Miller Ltd,5
+20,Stewart-Obrien,4
+6,Smith-Long,9
+1,Larson Inc,8
+15,Parker and Sons,9
+10,Dyer LLC,3
+19,"Thomas, Ware and Moore",9
+17,"Foster, Wood and Kelley",5
+5,"Lee, Perry and Grimes",4
+4,Martinez Group,8
+10,Dyer LLC,3
+17,"Foster, Wood and Kelley",5
+10,Dyer LLC,3
+17,"Foster, Wood and Kelley",5
+20,Stewart-Obrien,4
+5,"Lee, Perry and Grimes",4
+2,Miller Ltd,5
+6,Smith-Long,9
+2,Miller Ltd,5
+13,Anderson Inc,4
+11,Gomez Inc,4
+11,Gomez Inc,4
+16,"Fox, Foster and Graves",6
+11,Gomez Inc,4
+19,"Thomas, Ware and Moore",9
+15,Parker and Sons,9
+16,"Fox, Foster and Graves",6
+11,Gomez Inc,4
+16,"Fox, Foster and Graves",6
+8,"Lee, Greene and Hunter",6
+4,Martinez Group,8
+8,"Lee, Greene and Hunter",6
+4,Martinez Group,8
+3,Taylor-Caldwell,6
+3,Taylor-Caldwell,6
+18,"Camacho, Bennett and Travis",9
+19,"Thomas, Ware and Moore",9
+19,"Thomas, Ware and Moore",9
+5,"Lee, Perry and Grimes",4
+18,"Camacho, Bennett and Travis",9
+10,Dyer LLC,3
+6,Smith-Long,9
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+9,Peck and Sons,8
+12,"Gates, Bennett and Nelson",8
+14,Rios Inc,4
+2,Miller Ltd,5
+17,"Foster, Wood and Kelley",5
+14,Rios Inc,4
+13,Anderson Inc,4
+9,Peck and Sons,8
+15,Parker and Sons,9
+15,Parker and Sons,9
+11,Gomez Inc,4
+16,"Fox, Foster and Graves",6
+17,"Foster, Wood and Kelley",5
+4,Martinez Group,8
+1,Larson Inc,8
+8,"Lee, Greene and Hunter",6
+17,"Foster, Wood and Kelley",5
+3,Taylor-Caldwell,6
+20,Stewart-Obrien,4
+15,Parker and Sons,9
+15,Parker and Sons,9
+14,Rios Inc,4
+14,Rios Inc,4
+2,Miller Ltd,5
+13,Anderson Inc,4
+14,Rios Inc,4
+19,"Thomas, Ware and Moore",9
+7,"Hernandez, Sanchez and Barker",6
+3,Taylor-Caldwell,6
+15,Parker and Sons,9
+14,Rios Inc,4
+11,Gomez Inc,4
+15,Parker and Sons,9
+13,Anderson Inc,4
+18,"Camacho, Bennett and Travis",9
+6,Smith-Long,9
+3,Taylor-Caldwell,6
+19,"Thomas, Ware and Moore",9
+15,Parker and Sons,9
+5,"Lee, Perry and Grimes",4
+10,Dyer LLC,3
+7,"Hernandez, Sanchez and Barker",6
+17,"Foster, Wood and Kelley",5
+7,"Hernandez, Sanchez and Barker",6
+12,"Gates, Bennett and Nelson",8
+17,"Foster, Wood and Kelley",5
+13,Anderson Inc,4
+20,Stewart-Obrien,4
+4,Martinez Group,8
+10,Dyer LLC,3
+3,Taylor-Caldwell,6
+9,Peck and Sons,8
+13,Anderson Inc,4
+18,"Camacho, Bennett and Travis",9
+15,Parker and Sons,9
+4,Martinez Group,8
+15,Parker and Sons,9
+2,Miller Ltd,5
+15,Parker and Sons,9
+8,"Lee, Greene and Hunter",6
+8,"Lee, Greene and Hunter",6
+17,"Foster, Wood and Kelley",5
+12,"Gates, Bennett and Nelson",8
+19,"Thomas, Ware and Moore",9
+10,Dyer LLC,3
+9,Peck and Sons,8
+5,"Lee, Perry and Grimes",4
+6,Smith-Long,9
+20,Stewart-Obrien,4
+2,Miller Ltd,5
+13,Anderson Inc,4
+6,Smith-Long,9
+5,"Lee, Perry and Grimes",4
+1,Larson Inc,8
+6,Smith-Long,9
+6,Smith-Long,9
+16,"Fox, Foster and Graves",6
+4,Martinez Group,8
+11,Gomez Inc,4
+9,Peck and Sons,8
+3,Taylor-Caldwell,6
+19,"Thomas, Ware and Moore",9
+8,"Lee, Greene and Hunter",6
+5,"Lee, Perry and Grimes",4
+4,Martinez Group,8
+6,Smith-Long,9
+2,Miller Ltd,5
+20,Stewart-Obrien,4
+11,Gomez Inc,4
+4,Martinez Group,8
+15,Parker and Sons,9
+6,Smith-Long,9
+17,"Foster, Wood and Kelley",5
+6,Smith-Long,9
+19,"Thomas, Ware and Moore",9
+2,Miller Ltd,5
+15,Parker and Sons,9
+11,Gomez Inc,4
+8,"Lee, Greene and Hunter",6
+19,"Thomas, Ware and Moore",9
+13,Anderson Inc,4
+12,"Gates, Bennett and Nelson",8
+5,"Lee, Perry and Grimes",4
+6,Smith-Long,9
+4,Martinez Group,8
+19,"Thomas, Ware and Moore",9
+20,Stewart-Obrien,4
+1,Larson Inc,8
+20,Stewart-Obrien,4
+17,"Foster, Wood and Kelley",5
+12,"Gates, Bennett and Nelson",8
+15,Parker and Sons,9
+1,Larson Inc,8
+14,Rios Inc,4
+6,Smith-Long,9
+5,"Lee, Perry and Grimes",4
+11,Gomez Inc,4
+4,Martinez Group,8
+13,Anderson Inc,4
+11,Gomez Inc,4
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+6,Smith-Long,9
+18,"Camacho, Bennett and Travis",9
+10,Dyer LLC,3
+5,"Lee, Perry and Grimes",4
+10,Dyer LLC,3
+12,"Gates, Bennett and Nelson",8
+2,Miller Ltd,5
+13,Anderson Inc,4
+8,"Lee, Greene and Hunter",6
+2,Miller Ltd,5
+20,Stewart-Obrien,4
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+9,Peck and Sons,8
+17,"Foster, Wood and Kelley",5
+9,Peck and Sons,8
+11,Gomez Inc,4
+15,Parker and Sons,9
+6,Smith-Long,9
+3,Taylor-Caldwell,6
+17,"Foster, Wood and Kelley",5
+5,"Lee, Perry and Grimes",4
+12,"Gates, Bennett and Nelson",8
+18,"Camacho, Bennett and Travis",9
+14,Rios Inc,4
+11,Gomez Inc,4
+9,Peck and Sons,8
+2,Miller Ltd,5
+12,"Gates, Bennett and Nelson",8
+3,Taylor-Caldwell,6
+3,Taylor-Caldwell,6
+1,Larson Inc,8
+8,"Lee, Greene and Hunter",6
+8,"Lee, Greene and Hunter",6
+11,Gomez Inc,4
+9,Peck and Sons,8
+5,"Lee, Perry and Grimes",4
+14,Rios Inc,4
+3,Taylor-Caldwell,6
+5,"Lee, Perry and Grimes",4
+5,"Lee, Perry and Grimes",4
+19,"Thomas, Ware and Moore",9
+14,Rios Inc,4
+4,Martinez Group,8
+13,Anderson Inc,4
+10,Dyer LLC,3
+18,"Camacho, Bennett and Travis",9
+8,"Lee, Greene and Hunter",6
+8,"Lee, Greene and Hunter",6
+7,"Hernandez, Sanchez and Barker",6
+8,"Lee, Greene and Hunter",6
+14,Rios Inc,4
+19,"Thomas, Ware and Moore",9
+6,Smith-Long,9
+1,Larson Inc,8
+15,Parker and Sons,9
+1,Larson Inc,8
+17,"Foster, Wood and Kelley",5
+1,Larson Inc,8
+15,Parker and Sons,9
+2,Miller Ltd,5
+14,Rios Inc,4
+8,"Lee, Greene and Hunter",6
+8,"Lee, Greene and Hunter",6
+19,"Thomas, Ware and Moore",9
+7,"Hernandez, Sanchez and Barker",6
+19,"Thomas, Ware and Moore",9
+6,Smith-Long,9
+6,Smith-Long,9
+3,Taylor-Caldwell,6
+7,"Hernandez, Sanchez and Barker",6
+19,"Thomas, Ware and Moore",9
+8,"Lee, Greene and Hunter",6
+10,Dyer LLC,3
+20,Stewart-Obrien,4
+15,Parker and Sons,9
+15,Parker and Sons,9
+1,Larson Inc,8
+20,Stewart-Obrien,4
+7,"Hernandez, Sanchez and Barker",6
+4,Martinez Group,8
+6,Smith-Long,9
+1,Larson Inc,8
+5,"Lee, Perry and Grimes",4
+1,Larson Inc,8
+4,Martinez Group,8
+2,Miller Ltd,5
+10,Dyer LLC,3
+5,"Lee, Perry and Grimes",4
+10,Dyer LLC,3
+1,Larson Inc,8
+6,Smith-Long,9
+13,Anderson Inc,4
+15,Parker and Sons,9
+4,Martinez Group,8
+13,Anderson Inc,4
+20,Stewart-Obrien,4
+15,Parker and Sons,9
+8,"Lee, Greene and Hunter",6
+5,"Lee, Perry and Grimes",4
+15,Parker and Sons,9
+4,Martinez Group,8
+12,"Gates, Bennett and Nelson",8
+13,Anderson Inc,4
+2,Miller Ltd,5
+19,"Thomas, Ware and Moore",9
+19,"Thomas, Ware and Moore",9
+4,Martinez Group,8
+4,Martinez Group,8
+11,Gomez Inc,4
+5,"Lee, Perry and Grimes",4
+20,Stewart-Obrien,4
+11,Gomez Inc,4
+10,Dyer LLC,3
+8,"Lee, Greene and Hunter",6
+6,Smith-Long,9
+6,Smith-Long,9
+8,"Lee, Greene and Hunter",6
+15,Parker and Sons,9
+14,Rios Inc,4
+11,Gomez Inc,4
+12,"Gates, Bennett and Nelson",8
+13,Anderson Inc,4
+8,"Lee, Greene and Hunter",6
+18,"Camacho, Bennett and Travis",9
+1,Larson Inc,8
+15,Parker and Sons,9
+8,"Lee, Greene and Hunter",6
+11,Gomez Inc,4
+12,"Gates, Bennett and Nelson",8
+12,"Gates, Bennett and Nelson",8
+4,Martinez Group,8
+16,"Fox, Foster and Graves",6
+4,Martinez Group,8
+5,"Lee, Perry and Grimes",4
+5,"Lee, Perry and Grimes",4
+8,"Lee, Greene and Hunter",6
+10,Dyer LLC,3
+17,"Foster, Wood and Kelley",5
+9,Peck and Sons,8
+19,"Thomas, Ware and Moore",9
+14,Rios Inc,4
+8,"Lee, Greene and Hunter",6
+9,Peck and Sons,8
+11,Gomez Inc,4
