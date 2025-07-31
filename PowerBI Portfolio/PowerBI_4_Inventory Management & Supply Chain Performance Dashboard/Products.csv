@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Unit_Cost
+P0001,Purpose Kit,Electronics,171.94
+P0002,Brother Tool,Clothing,338.18
+P0003,Ago Device,Electronics,420.58
+P0004,Site Device,Beauty,420.04
+P0005,Face Kit,Toys,200.48
+P0006,Election Device,Groceries,306.22
+P0007,Dog Tool,Groceries,202.29
+P0008,Chair Widget,Electronics,208.28
+P0009,Since Tool,Home & Kitchen,159.61
+P0010,Blue Widget,Groceries,15.57
+P0011,Require Kit,Toys,133.64
+P0012,Sit Device,Toys,431.05
+P0013,Wait Device,Electronics,402.42
+P0014,Offer Device,Toys,392.86
+P0015,Begin Widget,Clothing,236.5
+P0016,Performance Widget,Beauty,437.67
+P0017,Knowledge Widget,Beauty,279.45
+P0018,Almost Device,Home & Kitchen,434.51
+P0019,All Kit,Clothing,311.19
+P0020,Better Device,Clothing,149.28
+P0021,Discover Tool,Clothing,178.25
+P0022,Early Tool,Groceries,131.7
+P0023,Mouth Kit,Groceries,311.87
+P0024,Play Kit,Clothing,179.46
+P0025,Agreement Widget,Toys,142.23
+P0026,Option Item,Clothing,375.22
+P0027,Decide Item,Electronics,287.17
+P0028,Sense Widget,Beauty,146.92
+P0029,Rate Item,Beauty,168.85
+P0030,Science Item,Beauty,158.09
+P0031,Offer Item,Clothing,353.16
+P0032,Kind Item,Groceries,150.5
+P0033,Discussion Widget,Electronics,119.42
+P0034,List Item,Beauty,228.03
+P0035,Perform Item,Home & Kitchen,221.04
+P0036,Fall Widget,Electronics,57.24
+P0037,Table Item,Beauty,104.45
+P0038,True Tool,Clothing,490.72
+P0039,According Kit,Home & Kitchen,458.96
+P0040,Song Device,Clothing,435.09
+P0041,Sure Kit,Toys,131.23
+P0042,Collection Widget,Groceries,136.34
+P0043,Save Item,Electronics,128.46
+P0044,Knowledge Item,Home & Kitchen,279.1
+P0045,Grow Widget,Clothing,248.03
+P0046,Fall Kit,Groceries,380.9
+P0047,Clearly Item,Electronics,342.94
+P0048,Dinner Widget,Clothing,326.25
+P0049,Source Item,Toys,189.67
+P0050,Great Item,Clothing,109.45
+P0051,Blue Widget,Groceries,7.92
+P0052,Best Item,Toys,17.32
+P0053,Husband Widget,Electronics,467.48
+P0054,Bill Device,Toys,364.07
+P0055,Her Widget,Clothing,473.29
+P0056,Throw Item,Home & Kitchen,284.27
+P0057,Guy Device,Beauty,439.05
+P0058,Pm Kit,Home & Kitchen,41.53
+P0059,Everything Item,Groceries,135.38
+P0060,Surface Widget,Electronics,288.21
+P0061,Animal Device,Electronics,29.35
+P0062,Show Item,Beauty,140.16
+P0063,Machine Device,Beauty,224.62
+P0064,Not Device,Home & Kitchen,27.18
+P0065,Capital Item,Clothing,116.72
+P0066,Win Kit,Clothing,169.71
+P0067,Human Device,Home & Kitchen,216.39
+P0068,Bar Tool,Toys,249.62
+P0069,Old Kit,Home & Kitchen,344.98
+P0070,Finally Device,Electronics,169.39
+P0071,Themselves Tool,Beauty,90.26
+P0072,Production Item,Toys,67.79
+P0073,Present Kit,Beauty,456.14
+P0074,Value Tool,Clothing,223.94
+P0075,Training Device,Beauty,351.38
+P0076,High Widget,Groceries,495.31
+P0077,Participant Item,Home & Kitchen,400.88
+P0078,Dark Tool,Beauty,451.34
+P0079,Sea Device,Groceries,93.71
+P0080,Available Device,Toys,212.36
+P0081,Answer Tool,Toys,85.6
+P0082,Recently Item,Beauty,16.74
+P0083,Drive Item,Toys,35.36
+P0084,Spring Kit,Groceries,211.9
+P0085,Figure Tool,Toys,137.94
+P0086,Base Device,Electronics,363.73
+P0087,Top Kit,Beauty,97.6
+P0088,Early Widget,Beauty,233.14
+P0089,Trial Device,Groceries,274.97
+P0090,Blood Widget,Beauty,426.44
+P0091,Husband Device,Beauty,491.0
+P0092,Fall Item,Clothing,357.49
+P0093,Long Tool,Electronics,427.98
+P0094,Prove Widget,Groceries,367.39
+P0095,They Device,Home & Kitchen,48.11
+P0096,His Kit,Electronics,69.64
+P0097,Commercial Kit,Beauty,297.54
+P0098,Hospital Kit,Groceries,233.35
+P0099,Hear Widget,Electronics,255.47
+P0100,Determine Tool,Home & Kitchen,188.07
+P0101,Religious Widget,Toys,169.97
+P0102,Example Tool,Electronics,147.34
+P0103,Science Tool,Home & Kitchen,172.51
+P0104,Write Widget,Clothing,59.61
+P0105,Result Item,Electronics,464.53
+P0106,Raise Tool,Groceries,382.3
+P0107,Away Widget,Toys,249.84
+P0108,Politics Kit,Beauty,405.93
+P0109,Prove Item,Electronics,20.13
+P0110,Congress Widget,Clothing,486.79
+P0111,None Tool,Beauty,487.53
+P0112,Shoulder Widget,Toys,141.73
+P0113,Election Kit,Clothing,244.61
+P0114,Common Item,Clothing,480.31
+P0115,Maintain Device,Electronics,217.01
+P0116,Hundred Widget,Groceries,309.31
+P0117,Expect Kit,Electronics,465.53
+P0118,Wish Device,Groceries,291.3
+P0119,Push Tool,Home & Kitchen,435.28
+P0120,Rise Tool,Clothing,33.59
+P0121,Onto Tool,Beauty,165.22
+P0122,Discuss Device,Toys,386.15
+P0123,Reveal Item,Toys,284.14
+P0124,Garden Device,Home & Kitchen,161.41
+P0125,Threat Kit,Clothing,68.84
+P0126,Special Tool,Groceries,69.55
+P0127,Stand Kit,Home & Kitchen,259.33
+P0128,Arrive Item,Electronics,403.91
+P0129,Drop Widget,Home & Kitchen,220.02
+P0130,Term Device,Clothing,291.82
+P0131,Almost Kit,Home & Kitchen,332.2
+P0132,Support Item,Clothing,262.09
+P0133,Four Device,Clothing,119.18
+P0134,Institution Device,Groceries,28.22
+P0135,Executive Widget,Beauty,87.16
+P0136,Attorney Device,Home & Kitchen,66.7
+P0137,Development Kit,Home & Kitchen,104.91
+P0138,White Widget,Toys,224.02
+P0139,Yes Item,Beauty,48.86
+P0140,Our Tool,Clothing,310.59
+P0141,Under Kit,Home & Kitchen,122.99
+P0142,Serious Item,Home & Kitchen,120.29
+P0143,Forward Item,Electronics,217.5
+P0144,Difference Device,Groceries,186.21
+P0145,Reality Kit,Home & Kitchen,430.4
+P0146,Money Tool,Groceries,477.16
+P0147,Individual Tool,Groceries,259.55
+P0148,Usually Device,Electronics,21.86
+P0149,Who Item,Electronics,478.48
+P0150,Question Tool,Toys,29.42
+P0151,Low Tool,Groceries,226.5
+P0152,Character Item,Groceries,445.63
+P0153,Evidence Device,Electronics,52.34
+P0154,Chair Kit,Beauty,103.73
+P0155,Employee Device,Electronics,163.28
+P0156,Size Tool,Home & Kitchen,25.15
+P0157,Option Kit,Electronics,382.1
+P0158,Nothing Item,Toys,129.39
+P0159,Everyone Item,Clothing,61.46
+P0160,Skin Device,Toys,79.07
+P0161,Pattern Tool,Electronics,412.78
+P0162,Later Kit,Groceries,20.73
+P0163,Water Device,Home & Kitchen,407.82
+P0164,Past Widget,Toys,179.01
+P0165,Inside Tool,Clothing,8.87
+P0166,High Kit,Toys,491.6
+P0167,Discuss Tool,Electronics,324.37
+P0168,Certainly Tool,Groceries,77.27
+P0169,Mr Kit,Beauty,477.29
+P0170,Minute Widget,Clothing,251.54
+P0171,Benefit Device,Electronics,414.27
+P0172,Someone Tool,Electronics,356.74
+P0173,Anyone Device,Electronics,377.86
+P0174,Traditional Tool,Clothing,45.96
+P0175,Break Kit,Toys,198.55
+P0176,Claim Widget,Toys,128.48
+P0177,Product Device,Groceries,496.41
+P0178,Collection Item,Beauty,325.46
+P0179,Structure Item,Home & Kitchen,472.0
+P0180,Response Tool,Home & Kitchen,108.74
+P0181,Knowledge Widget,Clothing,427.44
+P0182,Pick Kit,Electronics,73.39
+P0183,Attack Kit,Toys,144.39
+P0184,Image Device,Electronics,151.24
+P0185,I Item,Beauty,363.96
+P0186,Pick Kit,Groceries,77.13
+P0187,Management Widget,Electronics,206.41
+P0188,Newspaper Device,Beauty,50.31
+P0189,Enter Tool,Home & Kitchen,157.75
+P0190,On Device,Toys,140.88
+P0191,Traditional Device,Groceries,367.35
+P0192,Yes Device,Groceries,386.41
+P0193,Activity Tool,Toys,116.21
+P0194,Response Kit,Electronics,429.97
+P0195,Set Widget,Beauty,476.4
+P0196,Building Device,Groceries,243.91
+P0197,Rest Device,Beauty,319.33
+P0198,Value Device,Home & Kitchen,228.45
+P0199,Not Tool,Electronics,77.05
+P0200,Social Device,Electronics,262.79
+P0201,Example Tool,Electronics,484.66
+P0202,Specific Kit,Clothing,148.93
+P0203,Put Tool,Home & Kitchen,410.66
+P0204,Grow Widget,Home & Kitchen,152.65
+P0205,Brother Device,Toys,319.89
+P0206,Finally Kit,Electronics,22.01
+P0207,Learn Item,Clothing,318.29
+P0208,Coach Kit,Toys,397.76
+P0209,Long Item,Electronics,165.25
+P0210,About Kit,Clothing,218.91
+P0211,Seven Device,Clothing,316.55
+P0212,Type Kit,Clothing,474.21
+P0213,Serve Item,Toys,228.69
+P0214,Everyone Widget,Groceries,241.9
+P0215,Month Kit,Beauty,8.96
+P0216,Sound Kit,Clothing,172.59
+P0217,Could Widget,Electronics,293.75
+P0218,Movement Device,Clothing,365.84
+P0219,While Item,Toys,179.32
+P0220,Born Kit,Home & Kitchen,488.91
+P0221,Truth Widget,Home & Kitchen,75.93
+P0222,Process Device,Clothing,151.52
+P0223,Fire Kit,Groceries,365.05
+P0224,Thought Device,Electronics,206.77
+P0225,Purpose Tool,Clothing,306.35
+P0226,Movement Item,Home & Kitchen,126.44
+P0227,Politics Item,Beauty,132.82
+P0228,Decide Device,Clothing,42.02
+P0229,Claim Widget,Toys,174.39
+P0230,Hour Kit,Groceries,187.76
+P0231,Sound Kit,Electronics,182.84
+P0232,Color Tool,Beauty,381.18
+P0233,Notice Kit,Beauty,68.56
+P0234,Start Tool,Electronics,248.37
+P0235,Win Item,Home & Kitchen,279.0
+P0236,Nice Device,Toys,197.81
+P0237,Why Item,Home & Kitchen,124.81
+P0238,A Tool,Groceries,309.14
+P0239,Place Kit,Home & Kitchen,267.93
+P0240,Game Tool,Groceries,267.36
+P0241,Middle Tool,Toys,108.09
+P0242,After Widget,Toys,175.47
+P0243,Brother Item,Clothing,248.36
+P0244,Woman Kit,Toys,260.96
+P0245,Him Item,Beauty,224.08
+P0246,Unit Device,Groceries,122.12
+P0247,Theory Device,Groceries,398.65
+P0248,Surface Device,Clothing,228.39
+P0249,Food Item,Toys,491.67
+P0250,Education Item,Clothing,257.76
+P0251,Article Kit,Electronics,460.02
+P0252,Effect Tool,Clothing,282.16
+P0253,Unit Device,Electronics,323.83
+P0254,Our Widget,Home & Kitchen,307.47
+P0255,Your Item,Clothing,264.42
+P0256,Bar Kit,Beauty,436.56
+P0257,Bed Device,Clothing,7.4
+P0258,Sign Item,Toys,430.77
+P0259,Mention Kit,Toys,317.11
+P0260,Team Tool,Clothing,261.1
+P0261,Authority Tool,Electronics,464.52
+P0262,Soon Kit,Electronics,367.94
+P0263,No Widget,Groceries,102.31
+P0264,Space Widget,Electronics,292.62
+P0265,Car Item,Groceries,271.66
+P0266,Career Tool,Home & Kitchen,104.15
+P0267,Receive Device,Clothing,381.67
+P0268,May Kit,Beauty,418.84
+P0269,Your Device,Electronics,498.78
+P0270,Often Device,Toys,169.7
+P0271,Company Tool,Home & Kitchen,427.55
+P0272,Evidence Tool,Toys,15.97
+P0273,News Device,Clothing,441.61
+P0274,Turn Widget,Groceries,488.63
+P0275,Policy Kit,Toys,371.44
+P0276,Land Widget,Beauty,477.97
+P0277,Development Kit,Electronics,108.3
+P0278,Woman Tool,Electronics,29.71
+P0279,Notice Kit,Groceries,487.29
+P0280,Someone Tool,Groceries,439.33
+P0281,Show Kit,Beauty,48.09
+P0282,Road Kit,Home & Kitchen,221.6
+P0283,Deep Tool,Electronics,344.98
+P0284,Sell Kit,Electronics,454.16
+P0285,Forget Item,Toys,321.93
+P0286,Inside Widget,Toys,107.6
+P0287,Remain Widget,Groceries,21.97
+P0288,Rate Widget,Electronics,304.64
+P0289,Hour Widget,Groceries,467.48
+P0290,Left Widget,Electronics,18.06
+P0291,We Widget,Toys,57.89
+P0292,Nation Kit,Clothing,23.84
+P0293,Live Device,Electronics,286.49
+P0294,Camera Tool,Beauty,188.73
+P0295,End Kit,Electronics,291.78
+P0296,Down Tool,Clothing,481.85
+P0297,Attack Item,Toys,257.78
+P0298,Ground Item,Home & Kitchen,74.22
+P0299,Against Kit,Toys,364.52
+P0300,Per Device,Toys,467.17
+P0301,Once Kit,Toys,102.12
+P0302,Drug Device,Home & Kitchen,493.65
+P0303,Per Tool,Electronics,288.83
+P0304,Discussion Kit,Groceries,275.63
+P0305,Account Widget,Electronics,99.19
+P0306,Avoid Widget,Beauty,208.5
+P0307,Second Widget,Home & Kitchen,481.25
+P0308,Program Widget,Groceries,281.13
+P0309,Artist Device,Groceries,464.37
+P0310,Drop Kit,Beauty,184.9
+P0311,Author Device,Clothing,483.45
+P0312,Western Kit,Groceries,122.88
+P0313,Almost Kit,Toys,144.78
+P0314,Trade Kit,Home & Kitchen,73.44
+P0315,Give Device,Beauty,432.25
+P0316,Avoid Tool,Home & Kitchen,379.19
+P0317,My Tool,Home & Kitchen,267.93
+P0318,Economy Device,Groceries,172.8
+P0319,Family Device,Toys,223.96
+P0320,Relationship Device,Toys,435.41
+P0321,Mention Tool,Toys,44.89
+P0322,Difficult Tool,Electronics,251.31
+P0323,Notice Device,Electronics,63.17
+P0324,Cause Tool,Clothing,276.87
+P0325,Several Widget,Beauty,188.89
+P0326,Worry Kit,Groceries,37.48
+P0327,Us Device,Clothing,342.51
+P0328,Own Widget,Beauty,141.29
+P0329,Part Tool,Groceries,219.13
+P0330,Material Item,Clothing,297.77
+P0331,Eight Widget,Home & Kitchen,42.71
+P0332,Still Widget,Clothing,161.9
+P0333,Material Widget,Groceries,493.16
+P0334,Surface Tool,Groceries,329.28
+P0335,Investment Tool,Electronics,99.53
+P0336,Customer Widget,Electronics,313.0
+P0337,Between Widget,Home & Kitchen,406.77
+P0338,Bill Item,Groceries,397.28
+P0339,Reason Tool,Clothing,477.36
+P0340,Lawyer Item,Clothing,134.0
+P0341,Health Device,Home & Kitchen,201.26
+P0342,Land Kit,Electronics,220.97
+P0343,Item Device,Clothing,378.98
+P0344,Manage Kit,Beauty,61.7
+P0345,Treat Tool,Clothing,17.1
+P0346,Shoulder Tool,Electronics,160.61
+P0347,Arm Kit,Toys,178.93
+P0348,Report Kit,Clothing,101.32
+P0349,Ready Device,Clothing,324.97
+P0350,Race Tool,Toys,16.36
+P0351,Billion Kit,Home & Kitchen,169.34
+P0352,Ask Device,Beauty,24.27
+P0353,Interesting Kit,Home & Kitchen,239.63
+P0354,Should Tool,Groceries,98.13
+P0355,Group Device,Groceries,18.74
+P0356,Such Item,Beauty,29.44
+P0357,Training Kit,Home & Kitchen,319.74
+P0358,Boy Widget,Clothing,57.4
+P0359,Energy Kit,Clothing,90.21
+P0360,Dark Device,Groceries,362.56
+P0361,Customer Tool,Home & Kitchen,356.79
+P0362,Not Device,Beauty,415.86
+P0363,List Item,Home & Kitchen,340.19
+P0364,Challenge Widget,Toys,355.6
+P0365,Knowledge Device,Beauty,428.15
+P0366,Cover Tool,Groceries,326.18
+P0367,Family Kit,Groceries,131.52
+P0368,Maintain Widget,Toys,337.42
+P0369,Enjoy Kit,Clothing,417.97
+P0370,Two Kit,Beauty,239.06
+P0371,Wind Widget,Home & Kitchen,56.76
+P0372,Bag Tool,Beauty,290.5
+P0373,Level Widget,Clothing,456.38
+P0374,System Widget,Clothing,355.71
+P0375,Training Tool,Electronics,440.41
+P0376,Total Widget,Beauty,300.49
+P0377,Oil Item,Electronics,427.55
+P0378,Billion Widget,Electronics,81.35
+P0379,Apply Widget,Beauty,467.04
+P0380,Reach Item,Home & Kitchen,71.97
+P0381,Now Device,Clothing,173.21
+P0382,Think Kit,Groceries,384.15
+P0383,Administration Item,Clothing,95.33
+P0384,Better Device,Clothing,6.76
+P0385,With Item,Toys,424.81
+P0386,Some Widget,Home & Kitchen,68.93
+P0387,Time Item,Toys,282.15
+P0388,Economic Device,Beauty,439.55
+P0389,Compare Tool,Home & Kitchen,304.36
+P0390,Investment Item,Home & Kitchen,308.48
+P0391,Mention Item,Electronics,25.3
+P0392,Medical Kit,Clothing,388.5
+P0393,Different Kit,Beauty,330.65
+P0394,Treatment Kit,Groceries,195.64
+P0395,Institution Kit,Groceries,440.79
+P0396,Weight Device,Clothing,18.5
+P0397,Artist Widget,Toys,268.24
+P0398,Community Device,Clothing,287.81
+P0399,Hundred Widget,Toys,95.47
+P0400,Able Kit,Electronics,102.33
+P0401,In Widget,Home & Kitchen,26.09
+P0402,Evidence Item,Home & Kitchen,329.02
+P0403,With Device,Beauty,497.1
+P0404,Step Kit,Toys,255.62
+P0405,Still Tool,Beauty,433.64
+P0406,Look Kit,Clothing,455.47
+P0407,Feeling Item,Clothing,396.75
+P0408,Land Widget,Home & Kitchen,215.26
+P0409,Same Widget,Home & Kitchen,261.51
+P0410,Side Kit,Clothing,76.93
+P0411,Step Widget,Groceries,470.39
+P0412,Only Device,Electronics,324.57
+P0413,Recently Device,Groceries,52.19
+P0414,Serious Item,Beauty,344.76
+P0415,Message Kit,Home & Kitchen,383.23
+P0416,Clear Widget,Home & Kitchen,178.87
+P0417,Customer Widget,Toys,446.05
+P0418,Fine Device,Toys,165.09
+P0419,Director Device,Electronics,254.2
+P0420,Article Kit,Electronics,336.85
+P0421,Particularly Kit,Electronics,482.07
+P0422,Simply Device,Toys,235.44
+P0423,Occur Device,Groceries,211.07
+P0424,Ask Device,Beauty,40.36
+P0425,Small Kit,Clothing,352.73
+P0426,Former Tool,Toys,22.3
+P0427,Art Tool,Home & Kitchen,373.16
+P0428,Apply Device,Toys,259.47
+P0429,Pattern Kit,Electronics,421.66
+P0430,Me Tool,Electronics,145.08
+P0431,Morning Kit,Beauty,17.01
+P0432,Wide Tool,Clothing,65.01
+P0433,Tonight Widget,Electronics,293.17
+P0434,Nice Tool,Groceries,105.31
+P0435,Coach Kit,Clothing,430.88
+P0436,Art Kit,Home & Kitchen,225.87
+P0437,Movie Widget,Beauty,482.75
+P0438,Be Kit,Toys,265.97
+P0439,Today Widget,Groceries,263.53
+P0440,Cultural Kit,Groceries,302.49
+P0441,Authority Item,Electronics,425.34
+P0442,Physical Tool,Electronics,230.47
+P0443,Author Widget,Electronics,22.81
+P0444,Republican Kit,Clothing,287.92
+P0445,Training Tool,Toys,287.9
+P0446,Easy Kit,Groceries,152.17
+P0447,International Device,Beauty,160.0
+P0448,Call Item,Clothing,366.54
+P0449,Year Tool,Electronics,38.39
+P0450,Voice Device,Clothing,334.48
+P0451,Over Kit,Beauty,206.51
+P0452,Employee Device,Toys,13.53
+P0453,Particular Device,Toys,356.16
+P0454,Phone Tool,Groceries,498.68
+P0455,Among Tool,Toys,181.56
+P0456,President Tool,Home & Kitchen,415.23
+P0457,Beat Kit,Clothing,252.87
+P0458,Kind Device,Beauty,9.49
+P0459,Really Widget,Electronics,173.86
+P0460,Past Item,Beauty,430.66
+P0461,Other Widget,Electronics,191.88
+P0462,Necessary Item,Toys,121.41
+P0463,Four Widget,Home & Kitchen,191.13
+P0464,Worry Widget,Toys,393.87
+P0465,Every Kit,Electronics,197.4
+P0466,Democratic Device,Electronics,18.96
+P0467,Relationship Kit,Clothing,426.79
+P0468,Sense Tool,Clothing,270.06
+P0469,Former Widget,Toys,212.96
+P0470,Edge Kit,Home & Kitchen,316.9
+P0471,Evidence Kit,Electronics,247.99
+P0472,Individual Device,Clothing,233.84
+P0473,Catch Item,Electronics,268.61
+P0474,Remain Kit,Groceries,399.51
+P0475,Quite Item,Clothing,211.95
+P0476,First Tool,Beauty,115.7
+P0477,Lot Item,Beauty,361.61
+P0478,Four Tool,Beauty,190.87
+P0479,Woman Item,Home & Kitchen,68.56
+P0480,Society Item,Home & Kitchen,382.22
+P0481,Would Kit,Groceries,244.95
+P0482,Baby Device,Groceries,202.58
+P0483,Act Tool,Clothing,421.54
+P0484,Low Kit,Home & Kitchen,71.02
+P0485,Pretty Kit,Beauty,305.88
+P0486,Order Device,Groceries,455.18
+P0487,Black Device,Toys,358.43
+P0488,Back Kit,Electronics,481.59
+P0489,Note Item,Toys,107.88
+P0490,Different Kit,Toys,113.45
+P0491,Move Item,Toys,48.27
+P0492,Evidence Item,Toys,177.46
+P0493,Cause Item,Electronics,41.97
+P0494,Worker Kit,Electronics,226.44
+P0495,Happy Device,Groceries,428.0
+P0496,Upon Item,Home & Kitchen,128.17
+P0497,Authority Device,Beauty,115.84
+P0498,Until Kit,Beauty,345.61
+P0499,Election Item,Electronics,19.78
+P0500,Hope Item,Beauty,47.29

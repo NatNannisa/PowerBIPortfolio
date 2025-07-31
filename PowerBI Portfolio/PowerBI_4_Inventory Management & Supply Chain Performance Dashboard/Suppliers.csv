@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Region,SLA_Percentage
+S001,Moore-Bass,West,95.26
+S002,"Turner, Riggs and Roman",South,99.78
+S003,"Smith, Montoya and Evans",North,98.17
+S004,"Garcia, Humphrey and Baker",West,97.84
+S005,Newton and Sons,South,87.05
+S006,Campbell-Clark,East,88.59
+S007,Harris-Walters,North,99.92
+S008,Wagner-King,West,85.76
+S009,Davis Group,West,97.34
+S010,Williams-Cook,West,98.65
+S011,Walsh LLC,South,90.87
+S012,Figueroa PLC,North,92.79
+S013,"Patterson, Smith and Jones",West,95.32
+S014,"Mckee, Gardner and Davenport",West,98.33
+S015,"Tran, Jordan and Williams",East,87.1
+S016,Nolan-Flynn,South,89.26
+S017,Nolan and Sons,West,96.94
+S018,"Wright, Garcia and Deleon",West,91.3
+S019,Dickson-Brady,North,86.52
+S020,Hancock and Sons,South,93.05
+S021,Johnson-Doyle,East,89.35
+S022,Patton-Jenkins,West,92.46
+S023,"Shields, Cochran and Adams",North,99.79
+S024,"Rodriguez, Brennan and Garrison",West,91.04
+S025,Gonzalez Group,West,91.79
+S026,Torres-Pope,North,94.88
+S027,Walker Ltd,North,98.39
+S028,Ross LLC,South,87.44
+S029,Rasmussen LLC,North,94.33
+S030,May-Ross,North,87.76
+S031,"Rivera, Johnson and Wiley",West,86.8
+S032,White-Estes,South,99.75
+S033,Johnson-Carlson,West,90.71
+S034,Chandler-Edwards,East,99.5
+S035,"Joyce, Wilson and Lam",East,87.11
+S036,Scott Ltd,West,86.77
+S037,Smith-Frost,South,87.72
+S038,"Mcdaniel, Bentley and Mclaughlin",North,90.3
+S039,Diaz Inc,South,86.74
+S040,"Mccall, Hanson and Alvarado",South,90.31
+S041,Cortez LLC,East,93.65
+S042,"Parker, Ortiz and Powell",South,93.1
+S043,Spencer-Lee,East,91.6
+S044,"Bentley, Byrd and Orr",West,99.75
+S045,"Carroll, Sullivan and Bass",East,94.22
+S046,Mitchell-Jordan,East,94.34
+S047,"Lawson, Morris and Ramos",East,89.62
+S048,"Lewis, Kennedy and Santana",South,86.13
+S049,"Jackson, Miller and Robertson",North,93.19
+S050,"Harvey, Davis and Crane",South,91.29
+S051,Chambers and Sons,South,90.03
+S052,Hernandez Inc,North,89.08
+S053,Riggs PLC,East,99.99
+S054,Gibson Ltd,East,89.71
+S055,"Lee, Horton and Snyder",East,86.11
+S056,Hernandez Ltd,West,89.62
+S057,Stafford Inc,South,95.92
+S058,Robinson-Brock,North,85.5
+S059,"Holmes, Williams and Wright",North,95.34
+S060,Bryant Group,West,97.12
+S061,"Schmidt, Hansen and Stewart",West,89.16
+S062,Salazar-Ball,North,86.98
+S063,"Simmons, Meadows and Griffin",North,92.17
+S064,Manning Group,West,88.56
+S065,Green-Wright,North,93.1
+S066,"Ramirez, Strickland and Washington",West,86.75
+S067,Hill Inc,West,94.65
+S068,"Mitchell, Nelson and Flores",North,96.5
+S069,"Miller, Hernandez and Reyes",East,91.02
+S070,Mccarthy Inc,East,92.64
+S071,Russell-Daniels,South,92.4
+S072,Brown-Wall,North,97.0
+S073,Stein-Silva,South,86.75
+S074,"Smith, Gilmore and Johnston",East,91.15
+S075,Smith-Bell,South,92.11
+S076,Castaneda-Ashley,West,98.91
+S077,Medina-Navarro,East,95.87
+S078,"Hurst, Freeman and Nelson",East,91.23
+S079,Johnson-Rogers,West,96.96
+S080,"Yates, Ramsey and Pittman",South,91.24
+S081,Hooper PLC,South,85.09
+S082,Meadows PLC,North,96.28
+S083,"Alvarado, Miller and Patterson",East,88.79
+S084,White-Green,North,85.92
+S085,Lewis-Murphy,North,97.19
+S086,Ramirez-Bean,East,93.86
+S087,King-Miller,South,91.03
+S088,Curry Inc,East,96.56
+S089,Walker-Jones,East,93.65
+S090,"Williams, Johnson and Wright",East,93.86
+S091,Howell and Sons,North,90.44
+S092,Wells Inc,East,87.71
+S093,"Gould, Marshall and Scott",West,85.35
+S094,Jackson-Lawson,East,99.47
+S095,"Higgins, Strickland and Martin",West,93.75
+S096,Rodriguez-Johnson,North,95.03
+S097,Johnston-Odonnell,West,85.47
+S098,Sanders-Espinoza,East,85.78
+S099,Vargas Ltd,South,97.67
+S100,Garcia LLC,North,97.59
