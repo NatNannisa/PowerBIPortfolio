@@ -54,3 +54,28 @@ Avg Order Value = DIVIDE([Total Sales], DISTINCTCOUNT(Sales[Order_ID]))
 Profit Margin = DIVIDE([Total Profit], [Total Sales])
 
 Return Rate = DIVIDE(COUNT(Returns[Return_ID]), DISTINCTCOUNT(Sales[Order_ID]))
+
+
+Key Insights
+Beauty and Electronics were the highest-performing categories, highlighting strong demand in self-care and technology products.
+
+Store 6 achieved high sales with a comparatively low return rate, indicating operational efficiency or better customer satisfaction.
+
+Home & Garden products had the lowest total profit, suggesting pricing challenges or higher-than-average return rates.
+
+Nutricosmetic-style products (e.g., Beauty) were most popular among younger customers aged 25–39.
+
+A noticeable decline in sales was observed between May and July, suggesting a seasonal dip or the absence of effective promotions during that period.
+
+Strategic Recommendations
+Improve profitability in underperforming categories (e.g., Home & Garden) by analyzing product return reasons and revisiting inventory or supplier strategies.
+
+Identify and replicate the success factors of Store 6 (e.g., customer service, store layout, or localized campaigns) in lower-performing locations.
+
+Implement seasonal campaigns in mid-year months (June–July) to address the identified dip in consumer spending.
+
+Allocate marketing budgets toward Beauty and Electronics, the top drivers of revenue and customer engagement.
+
+Enhance customer segmentation by offering loyalty programs tailored to high-value age groups (25–39) and developing email-based campaigns for higher-income segments.
+
+Use return rate patterns to refine product recommendations and inventory stocking, particularly for high-return categories like Clothing and Toys.
